@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicMovieApi</string>
+    <string name="content">content</string>
+    <string name="content2">content2</string>
+</resources>
